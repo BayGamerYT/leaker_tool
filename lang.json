@@ -1,53 +1,65 @@
 {
   "leaks": {
     "en": "Fortnite new Leaks detected",
-    "de": "Fortnite neue Kosmetische Items enteckt."
+    "de": "Fortnite neue Kosmetische Items enteckt.",
+    "es": "Se han detectado nuevas filtraciones en Fortnite"
   },
   "shop": {
     "en": "Fortnite Shop changes detected",
-    "de": "der Fortnite Item Shop wurde geändert"
+    "de": "der Fortnite Item Shop wurde geändert",
+    "es": "Se han detectado cambios en la tienda Fortnite"
   },
   "staging": {
     "en": "was added to the Staging Server\nYou can expect we'll get the Update next week",
-    "de": "wurde zu den Staging Servern hinzugefügt\nIhr könnt das Update nächste Woche erwarten"
+    "de": "wurde zu den Staging Servern hinzugefügt\nIhr könnt das Update nächste Woche erwarten",
+    "es": "se añadió al servidor de montaje. Puede esperar que recibamos la actualización la semana que viene."
   },
   "featuredislands": {
     "en": "New Featured Island detected",
-    "de": "Eine neue Vorgestellte Insel wurde erkannt"
+    "de": "Eine neue Vorgestellte Insel wurde erkannt",
+    "es": "Nueva isla destacada detectada"
   },
   "playlist": {
     "en": "New Playlist was updated in the API",
-    "de": "Ein LTM wurde geupdated"
+    "de": "Ein LTM wurde geupdated",
+    "es": "Se actualizó un LTM"
   },
   "blogpost": {
     "notices!": "DONT OVERLARGE THE TEXT LENGH!!!! I RECOMMEND TO LEAVE IT EMPTY!!!! (Twitter Text lengh)",
     "en": "New/updated Blogpost detected",
-    "de": "Neuer/angepasster Blogpost erkannt"
+    "de": "Neuer/angepasster Blogpost erkannt",
+    "es": "Se ha detectado una entrada de blog nueva/editada"
   },
   "compblogpost": {
     "notices!": "DONT OVERLARGE THE TEXT LENGH!!!! I RECOMMEND TO LEAVE IT EMPTY!!!! (Twitter Text lengh)",
     "en": "New/updated Competitive Blogpost detected",
-    "de": "Neuer/angepasster Competitive Blogpost erkannt"
+    "de": "Neuer/angepasster Competitive Blogpost erkannt",
+    "es": "Se ha detectado una entrada de blog competitivo nueva/editada"
   },
   "brnews": {
     "en": "BR News-Feed Update",
-    "de": "BR Neuigkeiten Update"
+    "de": "BR Neuigkeiten Update",
+    "es": "Noticias del BR actualizadas"
   },
   "stwnews": {
     "notices!": "DONT OVERLARGE THE TEXT LENGH!!!! I RECOMMEND TO LEAVE IT EMPTY!!!! (Twitter Text lengh)",
     "en": "",
-    "de": ""
+    "de": "",
+    "es": ""
   },
   "creativenews": {
     "en": "Creative News-Feed Update",
-    "de": "Kreativmodus Neuigkeiten Update"
+    "de": "Kreativmodus Neuigkeiten Update",
+    "es": "Noticias del modo creativo actualizadas"
   },
   "tournament": {
     "en": "New Tournament detected",
-    "de": "Neues Turnier entdeckt"
+    "de": "Neues Turnier entdeckt",
+    "es": "Nuevo torneo detectado"
   },
   "progress": {
     "en": "days are left in the current season",
-    "de": "Tage sind noch übrig in der aktuellen Season"
+    "de": "Tage sind noch übrig in der aktuellen Season",
+    "es": "dias que quedad de la temporada actual"
   }
 }
